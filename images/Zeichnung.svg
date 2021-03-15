@@ -17,9 +17,9 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="Zeichnung.svg"
-   inkscape:export-filename="/home/jalmer/Dokumente/GitHub/dino/images/default_200_percent/200-offline-sprite.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="/home/jalmer/Dokumente/GitHub/dino/images/default_100_percent/100-offline-sprite.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48">
   <defs
      id="defs2">
     <inkscape:perspective
@@ -390,9 +390,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="430.93606"
-     inkscape:cy="115.60634"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="986.22531"
+     inkscape:cy="99.004295"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -410,7 +410,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2358,7 +2358,7 @@
     </g>
     <g
        id="g3439"
-       transform="matrix(-0.01545917,0,0,0.02580138,162.49682,268.55144)">
+       transform="matrix(-0.01637269,0,0,0.03238544,162.96454,265.27567)">
       <path
          id="path3409"
          d="m 278.12,22.281 c -16.87,-5.858 -89.623,73.156 -75.56,134.952 l 33.051,1.712 C 282.21,138.215 289.312,26.167 278.12,22.281 Z"
@@ -2434,7 +2434,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-0.01524465,0,0,0.02532155,135.42482,268.83776)"
+       transform="matrix(-0.01524465,0,0,0.03355126,135.42482,264.74313)"
        id="g3508">
       <g
          id="g3480">
@@ -2541,7 +2541,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.01669957,0,0,0.02277654,136.21564,269.81079)"
+       transform="matrix(0.01669957,0,0,0.02982949,136.21564,266.22789)"
        id="g4169">
       <g
          id="g4167"
@@ -2667,7 +2667,7 @@
          id="path4508" />
     </g>
     <g
-       transform="matrix(0.0140742,0,0,0.0140742,202.13674,280.99324)"
+       transform="matrix(0.02269536,0,0,0.02925745,199.76601,273.28015)"
        id="g4169-1">
       <g
          id="g4167-2"
@@ -2822,7 +2822,7 @@
     </g>
     <g
        id="XMLID_1450_"
-       transform="matrix(0.01459986,0,0,0.01459986,215.55453,281.72051)">
+       transform="matrix(0.02053865,0,0,0.02053865,213.21592,278.79727)">
       <g
          id="XMLID_1319_">
         <g
@@ -3012,7 +3012,7 @@
     </g>
     <g
        id="g6748"
-       transform="matrix(0.01808915,0,0,0.01808915,235.21373,279.81468)">
+       transform="matrix(0.03216475,0,0,0.03216475,230.71581,273.04367)">
       <path
          id="path6633"
          d="m 369.853,444.045 c -4.963,-1.811 -9.781,-4.048 -14.433,-6.691 -19.937,-11.321 -36.67,-29.989 -48.012,-53.267 -29.001,-59.541 -15.588,-134.577 19.323,-185.356 19.323,-28.147 45.098,-47.294 73.391,-47.294 10.707,0 21.04,2.737 30.801,7.669 3.642,1.842 7.201,3.975 10.666,6.389 19.063,13.278 35.411,34.88 47.179,60.093 61.416,131.278 -28.895,251.235 -118.915,218.457 z"
@@ -3468,7 +3468,7 @@
     </g>
     <g
        id="g7394"
-       transform="matrix(0.01524465,0,0,0.02532155,163.40446,268.83776)">
+       transform="matrix(0.01570141,0,0,0.0332608,163.40446,264.88765)">
       <g
          id="g7366">
         <path
